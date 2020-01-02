@@ -1,0 +1,1 @@
+﻿java -Dfile.encoding=utf-8 -jar markdown-1.0.jar -h XXX(替换为具体的文件名).md XXX.html
